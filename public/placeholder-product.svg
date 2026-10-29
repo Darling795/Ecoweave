@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Product photo coming soon">
+  <rect width="400" height="400" fill="#e6d5cc"/>
+  <g fill="none" stroke="#b57b78" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 170 h100 l12 120 a10 10 0 0 1 -10 11 h-104 a10 10 0 0 1 -10 -11 z"/>
+    <path d="M170 170 v-14 a30 30 0 0 1 60 0 v14"/>
+  </g>
+  <text x="200" y="330" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#9a6b67">Ecoweave</text>
+  <text x="200" y="356" text-anchor="middle" font-family="Inter, sans-serif" font-size="13" letter-spacing="1" fill="#a98f88">PHOTO COMING SOON</text>
+</svg>
